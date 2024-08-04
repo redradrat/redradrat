@@ -26,9 +26,9 @@ Most recently, I've taken on various technical leadership roles, ranging from pl
 This is my personal page.
 """
 
-# # Collection to display on home
-# homeCollectionTitle = 'Posts'
-# homeCollection = 'posts'
+# Collection to display on home
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
 
 # Lists parameters
 paginationSize = 100
@@ -63,10 +63,6 @@ url = "/posts"
 [[params.menu]]
 name = "resume"
 url = '/resume'
-
-# [[params.menu]]
-# name = "about"
-# url = "/about"
 
 # Syntax highligth on code blocks
 [markup]
