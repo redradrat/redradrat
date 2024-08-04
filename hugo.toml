@@ -41,7 +41,7 @@ breadcrumbs = true
 # Social icons
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/user/"
+url = "https://www.linkedin.com/in/ralphkuehnert/"
 
 [[params.social]]
 name = "instagram"
