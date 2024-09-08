@@ -61,7 +61,7 @@ This is not yet synced with my [LinkedIn profile](https://linkedin.com/in/ralphk
 **Loodse, Germany**  
 *Nov 2018 - Apr 2019*
 
-> I moved to Loodse in order to focus more on kubernetes, and to gain more insight into the forefront of modern cloud-native infrastructure design and engineering. Loodse, with their own range of kubernetes-focused tech, is not only one an active player in the global kubernetes ecosystem, but also an innovation driver. Working here, I learned a lot about what it means to work on the frontier of modern design and how to learn and adapt quickly, but also how to facilitate implementation and design for environments traditionally not used to fast-paced iteration.
+> Loodse, with their own range of kubernetes-focused tech, is not only one an active player in the global kubernetes ecosystem, but also an innovation driver. Working here, I learned a lot about what it means to work on the frontier of modern infrastructure design and how to learn and adapt quickly, but also how to facilitate implementation and design for environments traditionally not used to fast-paced iteration.
 
 * Kubernetes Expertise
 * Cloud Native Design and Architecture
@@ -72,7 +72,9 @@ This is not yet synced with my [LinkedIn profile](https://linkedin.com/in/ralphk
 **Braintribe, Austria**  
 *Sep 2013 - Oct 2018*
 
-> Braintribe is a Vienna, Austria-based start-up, with a tech-heavy focus, developing a generic computing and data normalization platform, and various solutions on top of it. I spent some wonderfully rich and insightful years here, acquiring and honing skills and a well-rounded view on software architecture and abstraction design. Initially starting to work on test automation, my role quickly shifted towards engineering infrastructure automation solutions for the platform and implementing DevOps componentry for the development, test and deployment workflows. The move to the Cloud for the platform, as a scalable service to build solutions of any size and networking requirements, required me to build up a deep understanding of modern infrastructure architecture and operations and a strong skillset to develop such. Working in a start-up really is the greatest learning experience, from business to tech skills. Nothing is more unforgiving than the deep end…
+> Braintribe is a Vienna, Austria-based start-up, with a tech-heavy focus, developing a generic computing and data normalization platform, and various solutions on top of it. I spent some wonderfully rich and insightful years here, acquiring and honing skills and a well-rounded view on software architecture and abstraction design. Initially starting to work on test automation, my role quickly shifted towards engineering infrastructure automation solutions for the platform and implementing DevOps componentry for the development, test and deployment workflows. 
+>
+> The move to the Cloud for the platform, as a scalable service to build solutions of any size and networking requirements, required me to build up a deep understanding of modern infrastructure architecture and operations and a strong skillset to develop such. Working in a start-up really is the greatest learning experience, from business to tech skills. Nothing is more unforgiving than the deep end…
 
 * Build, Design and Implement Product-based Cloud Services (Paas)
 * Infrastructure Automation and Monitoring (DevOps, Continuous Deployment & Delivery)
