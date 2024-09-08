@@ -17,6 +17,7 @@ This is not yet synced with my [LinkedIn profile](https://linkedin.com/in/ralphk
 * Software Strategy
 * Software Engineering Partnerships
 * Technical/Engineering Leadership
+* Hands-On Development (Golang, Monolithic, Embedded)
 
 ## Staff Engineer
 **New Work SE, Austria**  
@@ -29,6 +30,7 @@ This is not yet synced with my [LinkedIn profile](https://linkedin.com/in/ralphk
 * Cloud-native System Architecture
 * Sustainable & Resilient Automation
 * Technical/Engineering Leadership
+* Hands-On Development (Golang, K8s Controllers, Microservices, Networking)
 
 ## Head of Cloud Infrastructure
 **SQUER Solutions, Austria**  
@@ -42,6 +44,7 @@ This is not yet synced with my [LinkedIn profile](https://linkedin.com/in/ralphk
 * Cloud-native Infrastructure Expertise
 * Consulting Services and Customer Success
 * Technical/Engineering Leadership
+* Hands-On Development (Golang, Python; K8s Controllers, CNI)
 
 ## Cloud Architect / Engineering Lead
 **Hilti AG, Liechtenstein**  
@@ -49,9 +52,10 @@ This is not yet synced with my [LinkedIn profile](https://linkedin.com/in/ralphk
 
 > At Hilti the opportunity arose, to design and lead development of a new cloud-native and multi-purpose infrastructure platform to serve as a foundation for various projects around the globe. I took the opportunity, moving from the start-up sphere into the corporate world, with Hilti not only just being a technical innovator, but also a global front-runner in its various business areas.
 
-- Cloud-native Infrastructure Design
-- Technical Leadership
-- Kubernetes-centric Architecture & Development
+* Cloud-native Infrastructure Design
+* Technical/Engineering Leadership
+* Kubernetes-centric Architecture & Development
+* Hands-On Development (Golang, Python; K8s Controllers, Terraform Plugins, Ansible Modules)
 
 ## Developer / Consultant
 **Loodse, Germany**  
@@ -59,9 +63,10 @@ This is not yet synced with my [LinkedIn profile](https://linkedin.com/in/ralphk
 
 > I moved to Loodse in order to focus more on kubernetes, and to gain more insight into the forefront of modern cloud-native infrastructure design and engineering. Loodse, with their own range of kubernetes-focused tech, is not only one an active player in the global kubernetes ecosystem, but also an innovation driver. Working here, I learned a lot about what it means to work on the frontier of modern design and how to learn and adapt quickly, but also how to facilitate implementation and design for environments traditionally not used to fast-paced iteration.
 
-- Kubernetes Expertise
-- Cloud Native Design and Architecture
-- DevOps - Consulting and Training
+* Kubernetes Expertise
+* Cloud Native Design and Architecture
+* DevOps - Consulting and Training
+* Hands-On Development (Golang; K8s Controllers)
 
 ## Software Developer
 **Braintribe, Austria**  
@@ -69,9 +74,9 @@ This is not yet synced with my [LinkedIn profile](https://linkedin.com/in/ralphk
 
 > Braintribe is a Vienna, Austria-based start-up, with a tech-heavy focus, developing a generic computing and data normalization platform, and various solutions on top of it. I spent some wonderfully rich and insightful years here, acquiring and honing skills and a well-rounded view on software architecture and abstraction design. Initially starting to work on test automation, my role quickly shifted towards engineering infrastructure automation solutions for the platform and implementing DevOps componentry for the development, test and deployment workflows. The move to the Cloud for the platform, as a scalable service to build solutions of any size and networking requirements, required me to build up a deep understanding of modern infrastructure architecture and operations and a strong skillset to develop such. Working in a start-up really is the greatest learning experience, from business to tech skills. Nothing is more unforgiving than the deep end…
 
-- Build, Design and Implement Product-based Cloud Services (Paas)
-- Infrastructure Automation and Monitoring (DevOps, Continuous Deployment & Delivery)
-- Development (Monolith to Microservices, Serverless)
+* Build, Design and Implement Product-based Cloud Services (Paas)
+* Infrastructure Automation and Monitoring (DevOps, Continuous Deployment & Delivery)
+* Hands-On Development (Go, Java, Ruby; Installers, DevX Tooling, Infrastructure, Test Automation)
 
 ## Technical Test Consultant
 **Tricentis, Austria**  
@@ -79,6 +84,6 @@ This is not yet synced with my [LinkedIn profile](https://linkedin.com/in/ralphk
 
 > Working as a Technical Test Consultant with different clients in Switzerland and Austria, I had a chance to understand the fundamentals of Test Automation in high-risk business areas (banking) and an understanding of the infrastructural and operational dependencies for efficient test automation. Tricentis was a great employer, that grew a lot since then - awesome to see!
 
-- Test Automation
-- Test Infrastructure
-- Consulting - TOSCA TestSuite
+* Test Automation
+* Test Infrastructure
+* Consulting - TOSCA TestSuite
